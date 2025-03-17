@@ -2,7 +2,7 @@
 Collection of LeetCode questions - Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 
 ## My LeetCode Progress 🚀  
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ananye__&theme=dark&cache=timestamp)
+[![LeetCode Stats](https://leetcard.cn/?username=ananye__&theme=dark&ext=activity)](https://leetcode.com/ananye__/)
 
 
 
