@@ -2,7 +2,8 @@
 Collection of LeetCode questions - Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
 
 ## My LeetCode Progress 🚀  
-[![LeetCode Stats](https://leetcard.cn/?username=ananye__&theme=dark&ext=activity)](https://leetcode.com/ananye__/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/ananye__/)
+
 
 
 
