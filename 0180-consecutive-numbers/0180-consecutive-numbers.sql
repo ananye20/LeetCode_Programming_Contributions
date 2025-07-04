@@ -1,10 +1,6 @@
-# Write your MySQL query statement below
-WITH cte as (SELECT id, LAG(num) OVER (ORDER BY id) as num2, num
+WITH lags AS(SELECT id, num, LAG(num) OVER (ORDER BY id) AS lag_num1
 FROM Logs),
-
-abc as(SELECT id, LAG(num2) OVER (ORDER BY id) as num3, num2, num
-FROM cte)
-
-SELECT DISTINCT num as ConsecutiveNums
-FROM abc
-WHERE num=num2 AND num2=num3
+lags2 AS(SELECT *, LAG(lag_num1) OVER (ORDER BY id) AS lag_num2
+FROM lags)
+SELECT DISTINCT num AS ConsecutiveNums FROM lags2
+WHERE num=lag_num1 AND lag_num1=lag_num2
