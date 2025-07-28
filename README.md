@@ -8,6 +8,8 @@ Collection of LeetCode questions - Created using [LeetHub v3](https://github.com
 
 
 ## My LeetCode Achievements 🏆
+![100 Days 2025 Badge](https://assets.leetcode.com/static_assets/others/25100.gif)
+
 ![50 Days 2025 Badge](https://assets.leetcode.com/static_assets/others/2550.gif)
 
 ![SQL 50 Badge](https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif)  
