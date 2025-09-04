@@ -29,4 +29,8 @@ Collection of LeetCode questions -- Created using [LeetHub v3](https://github.co
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ananye20/LeetCode_Programming_Contributions/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/ananye20/LeetCode_Programming_Contributions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
