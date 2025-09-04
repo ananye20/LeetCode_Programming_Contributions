@@ -5,6 +5,3 @@ class Solution:
                 return i
                 break
         return len(nums)
-        
-
-        
