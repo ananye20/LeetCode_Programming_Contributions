@@ -18,3 +18,15 @@ Collection of LeetCode questions -- Created using [LeetHub v3](https://github.co
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ananye20/LeetCode_Programming_Contributions/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ananye20/LeetCode_Programming_Contributions/tree/master/0035-search-insert-position) |
+<!---LeetCode Topics End-->
