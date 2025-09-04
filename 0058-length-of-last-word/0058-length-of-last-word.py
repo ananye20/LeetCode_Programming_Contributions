@@ -3,4 +3,3 @@ class Solution:
         l = s.split()
         res = len(l[-1])
         return res
-        
