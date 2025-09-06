@@ -33,4 +33,8 @@ Collection of LeetCode questions -- Created using [LeetHub v3](https://github.co
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ananye20/LeetCode_Programming_Contributions/tree/master/0058-length-of-last-word) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/ananye20/LeetCode_Programming_Contributions/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
