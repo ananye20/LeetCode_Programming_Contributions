@@ -37,4 +37,5 @@ Collection of LeetCode questions -- Created using [LeetHub v3](https://github.co
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/ananye20/LeetCode_Programming_Contributions/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/ananye20/LeetCode_Programming_Contributions/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
